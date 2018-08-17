@@ -1,2 +1,2 @@
 # windowbot
-windowbow discord
+windowbot discord
